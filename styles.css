@@ -1,9 +1,26 @@
-/* RTL Style */
-body {
+.vrfc {
+    text-align: right;
     direction: rtl;
 }
 
-.vrfc {
+.vrfc-chat {
+    text-align: right;
+    direction: rtl;
+}
+
+.vrfc-chat--dialog {
+    text-align: right;
+    direction: rtl;
+}
+.vrfc-message {
+    text-align: right;
+    direction: rtl;
+}
+.vrfc-system-response {
+    text-align: right;
+    direction: rtl;
+}
+.vrfc-button {
     text-align: right;
     direction: rtl;
 }
