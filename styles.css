@@ -1,0 +1,9 @@
+/* RTL Style */
+body {
+    direction: rtl;
+}
+
+.vrfc {
+    text-align: right;
+    direction: rtl;
+}
